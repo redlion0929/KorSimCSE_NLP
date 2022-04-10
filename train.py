@@ -7,9 +7,7 @@ from typing import Optional, Union, List, Dict, Tuple
 import torch
 import collections
 import random
-from setproctitle import setproctitle
 
-setproctitle('Seungwon simcse')
 # os.environ["CUDA_VISIBLE_DEVICES"] = 7
 
 from datasets import load_dataset
