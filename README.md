@@ -95,5 +95,5 @@ sh run_unsup_example.sh
 
 `python inference.py –category 카테고리 –keyword 검색어`
 
-**실행 결과
+**실행 결과**
 ![img.png](img.png)
