@@ -27,7 +27,7 @@ Supervised SimCSE의 학습에는 [KorNLI](https://github.com/kakaobrain/KorNLUD
 
 학습 기반 모델로는 `BERT-base`를 사용하였다.
 
-## 데이터 셋(DatasetI
+## 데이터 셋(Dataset)
 * Unsupervised SimCSE : AI Hub에서 제공하는 기계독해 데이터 셋 내의 지문을 문장 단위로 잘라서 txt파일로 저장하였다. 약 1,000,005개의 문장을 사용하였다.
 * Supervised SimCSE : KorNLI 데이터 셋 내에서 entailment, contradiction을 +/-로 labeling하여 사용하였다. 
 
