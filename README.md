@@ -44,6 +44,10 @@ KorSTS 데이터셋에 대해 Spearman correlation을 측정하였으며 결과�
 | Supervised SimCSE     |         0.830          |
 | Unsupervised SimCSE   |         0.730          |
 
+Supervised SimCSE의 경우, 아래의 링크에서 체크포인트를 다운받을 수 있다.
+
+https://drive.google.com/file/d/1e_YrcUlbrFpJloeVOeQ_W5-4r0CHtSI-/view?usp=sharing
+
 ## Environment Setting
 
  `requriements.txt` 속 라이브러리와 추가로 아래의 라이브러리를 사용하여 실험을 진행하였다.
