@@ -25,7 +25,7 @@ Unsupervised SimCSE는 positive sentence pair의 부족을 dropout으로 보완�
 Supervised SimCSE의 학습에는 [KorNLI](https://github.com/kakaobrain/KorNLUDatasets) 를 사용하였으며 Unsupervised SimCSE의 학습에는 [AI Hub](https://aihub.or.kr/aihub-data/natural-language/about) 에서 제공하는 기계독해 데이터셋을 사용하였다.
 두 모델의 평가에는 [KorSTS](https://github.com/kakaobrain/KorNLUDatasets) 를 사용하였다.
 
-학습 기반 모델로는 `BERT-base`를 사용하였다.
+학습 기반 모델로는 `klue/bert-base`를 사용하였다.
 
 ## 데이터 셋(Dataset)
 * Unsupervised SimCSE : AI Hub에서 제공하는 기계독해 데이터 셋 내의 지문을 문장 단위로 잘라서 txt파일로 저장하였다. 약 1,000,005개의 문장을 사용하였다.
