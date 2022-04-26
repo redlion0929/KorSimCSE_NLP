@@ -33,7 +33,7 @@ Supervised SimCSE의 학습에는 [KorNLI](https://github.com/kakaobrain/KorNLUD
 
 데이터 셋은 `data` 폴더에서 찾을 수 있다. 
 
-## 학습 결과
+## 학습 결과 (dev set)
 
 Supervised SimCSE의 경우 3 epoch, Unsupervised SimCSE의 경우 1 epoch만큼 학습을 진행하였다. 
 
