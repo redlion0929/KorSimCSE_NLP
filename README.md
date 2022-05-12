@@ -47,8 +47,6 @@ KorSTS 데이터셋에 대해 Spearman correlation을 측정하였으며 결과�
 
 ## 학습 결과 (test set)
 
-Supervised SimCSE의 경우 3 epoch, Unsupervised SimCSE의 경우 1 epoch만큼 학습을 진행하였다. 
-
 KorSTS 데이터셋에 대해 Spearman correlation을 측정하였으며 결과는 아래와 같다.
 
 | Model                 | Spearman's Correlation |
